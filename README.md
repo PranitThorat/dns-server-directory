@@ -68,7 +68,7 @@ Discover DNS servers for every need: fast, private, secure, and ad-blocking. Pic
 - 🇦🇺 139.130.4.4 ‒ Australia, Telstra
 - 🇲🇽 189.204.120.13 ‒ Mexico, Axtel
 - 🌍 41.203.16.61 ‒ South Africa
-- 🌍 196.203.86.4 ‒ Tunisia
+- 🌍 196.203.86.4 ‒ Tunisia 
 
 
 
